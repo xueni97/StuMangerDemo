@@ -1,0 +1,10 @@
+body{background-image:url(../img/bg1.jpg);}
+div{align:center;
+background-image:url(../img/bg1.jpg);
+}
+#mid{
+	position: absolute;
+	top:50%;
+	height:200px;
+}
+F:\[高清桌面壁纸].(风景系列).1920X1200.298P\Japan.jpg
